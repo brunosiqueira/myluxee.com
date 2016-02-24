@@ -1,0 +1,12 @@
+---
+:SalesAssociate:
+  :avatar:
+  - :medium
+  - :thumb
+  - :tiny
+:Store:
+  :banner:
+  - :big
+  :logo:
+  - :medium
+  - :thumb
